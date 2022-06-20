@@ -146,8 +146,7 @@ pointer-events: none;
 /*home section styling*/
 .home {
     display: flex;
-    /*background: url('./f5.png') no-repeat center;*/
-    backgroun:#111;
+    background: url('./f5.png') no-repeat center;
     height: 100vh;
     background-size: cover;
     color: #fff;
